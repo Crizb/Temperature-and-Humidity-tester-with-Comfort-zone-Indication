@@ -1,4 +1,4 @@
-# Temperature-and-Humidity-tester-with-Comfort-zone-Indication
+# Temperature and Humidity tester with Comfort zone Indication
 
 A simple device which goal was to tell its user the actual temperature and humidity of the enviroment. 
 Also the display text saying something about temperature and humidity.
